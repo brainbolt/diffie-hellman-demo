@@ -1,0 +1,15 @@
+{
+  "name": "diffie-hellman-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exchange.js",
+  "dependencies": {
+    "mathjs": "^3.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Rainbolt",
+  "license": "ISC"
+}
